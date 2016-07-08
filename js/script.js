@@ -1,5 +1,3 @@
-var admin;
-var name;
-name = 'Василий';
-admin = name;
-document.write(admin);
+var earth = "Земля";
+var visitor = "Петя";
+document.write(earth + " " + visitor);
